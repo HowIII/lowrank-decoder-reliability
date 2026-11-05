@@ -1,6 +1,6 @@
 # A low-rank decoder bottleneck bounds reliability in foundation-model perturbation prediction
 
-Code for the NeurIPS 2026 paper.
+Code for the NeurIPS 2026 paper ([arXiv:2611.05849](https://arxiv.org/abs/2611.05849)).
 
 ![Figure 1](assets/figure1.png)
 
